@@ -1,0 +1,8 @@
+i.stachetag-stache {
+	display: inline-block;
+	width: 1em;
+	height: .5em;
+	background: url(../img/stachetag-stache.png) center left;
+	background-size: 1em 1em;
+	margin-left: .2em;
+}
