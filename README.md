@@ -3,6 +3,9 @@ jquery-stachetag
 
 Implement stachetags in your HTMLs lickety-split.
 
+## Stachetags?
+[http://blog.heapsortjobs.com/stachetags-we-have-the-solution](http://blog.heapsortjobs.com/stachetags-we-have-the-solution)
+
 ## Usage
 
 ```
